@@ -1,0 +1,9 @@
+package Assignment5;
+
+public class EncapsulationEg {
+	public static void main(String args[]) {
+		Bank s = new Bank (); //object creation for accessing variables
+		
+	}
+
+}
